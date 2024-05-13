@@ -50,7 +50,7 @@
     "esbuild": "^0.15.15",
     "esbuild-plugin-copy": "^2.1.1",
     "eslint": "^7.32.0",
-    "jest": "^26.5.3",
+    "jest": "^29.7.0",
     "remove-files-webpack-plugin": "^1.4.3",
     "ts-jest": "^26.4.1",
     "ts-loader": "^8.0.2",
